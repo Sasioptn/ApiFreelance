@@ -2,5 +2,5 @@ venv/
 pycache/
 .idea/
 .idea
-pycache
-
+pycache/
+db.sqlite/
